@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313"
+baseurl = "http://www.arjen.eu"
 languageCode = "en-us"
 title = "Arjen's travels"
 [params]
