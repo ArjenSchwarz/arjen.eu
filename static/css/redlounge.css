@@ -44,7 +44,7 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 700;
 }
-h2 {
+section.post h2 {
     clear: both;
 }
 .center {
@@ -87,6 +87,11 @@ h1.brand-title {
 	font-size: 3rem;
 	margin-bottom: 0.25rem;
 }
+
+h1.brand-title a {
+    text-decoration: none;
+}
+
 h2.brand-tagline {
 	font-size: 1.4rem;
 	margin-top: 0.25rem;
@@ -486,6 +491,26 @@ div.gallery {
     margin-left: auto;
     margin-right: auto;
     clear: both;
+}
+
+.country-block {
+    height: 4rem;
+    float: left;
+    /*border: solid 1px black;*/
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+}
+
+.country-block img {
+    float: right;
+}
+
+.country-block .country-block-contents {
+    float: left;
+}
+
+.country-block a {
+    text-decoration: none;
 }
 
 @media (max-width: 1024px) {
