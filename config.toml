@@ -1,0 +1,10 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "Arjen's travels"
+[params]
+    subtitle = "The tales of what happens during my trips"
+[indexes]
+   country = "countries"
+[permalinks]
+    posts = "/:year/:month/:slug"
+    pages = "/:slug/"

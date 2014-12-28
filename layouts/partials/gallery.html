@@ -1,0 +1,22 @@
+{{if isset .Params "gallery_ids" }}
+{{ range .Params.gallery_ids }}
+<div class="gallery" id="pageGallery{{.}}"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+      $("#pageGallery{{.}}").nanoGallery({
+        kind: 'picasa',
+        userID: '106546526536212060547',
+        album: '{{ . }}',
+        paginationMaxLinesPerPage:5,
+        colorScheme: 'light',
+        thumbnailHoverEffect: 'borderDarker,labelAppear75',
+        thumbnailAlignment: 'justified',
+        thumbnailWidth: 150,
+        thumbnailHeight: 150,
+        thumbnailDisplayInterval:10,
+        thumbnailDisplayTransition:true
+      });
+    });
+</script>
+{{ end }}
+{{ end }}
