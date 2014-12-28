@@ -7,6 +7,7 @@ Countries:    ["Australia"]
 aliases:      ["/2013/04/02/back-on-the-road-in-tasmania"]
 Slug:         "back-on-the-road-in-tasmania"
 gallery_ids:  [5862236537464624977]
+ogimage:      "/img/posts/2013/04/tasmaniamap.png"
 ---
 
 It's been a long time since I've updated this blog, and I've decided to jump forward to the present time. I'll post about all the earlier happenings as well, but for now I suspect it's more interesting to know what I'm up to at the moment. So, without further ado, here's a short post about Tasmania.

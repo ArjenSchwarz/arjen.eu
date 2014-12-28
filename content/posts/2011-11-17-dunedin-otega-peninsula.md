@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/11/18/dunedin-and-the-otega-peninsula"]
 Slug:         "dunedin-and-the-otega-peninsula"
 gallery_ids:  [5672036386775938817]
+ogimage:      "/img/posts/2011/11/DSC01651.jpg"
 ---
 _03-11-2011 - 09-11-2011_
 

@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2012/06/08/driving-through-the-catlins"]
 Slug:         "driving-through-the-catlins"
 gallery_ids:  [5751509472871351601]
+ogimage:      "/img/posts/2012/06/PurakaunuiFalls.jpg"
 ---
 The Catlins are an area stretching pretty much between Dunedin and Invercargill, and is supposed to be one of the most beautiful areas to travel through in New Zealand.
 

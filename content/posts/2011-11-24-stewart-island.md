@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/11/24/stewart-island-new-zealands-third-island/"]
 Slug:         "stewart-island-new-zealands-third-island"
 gallery_ids:  [5680959618450397313]
+ogimage:      "/img/posts/2011/11/DSC01901.jpg"
 ---
 _12-11-2011 until 17-11-2011_
 

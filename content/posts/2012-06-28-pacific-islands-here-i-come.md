@@ -7,6 +7,7 @@ Countries:    ["Cook Islands", "Fiji"]
 aliases:      ["/2012/06/28/pacific-islands-here-i-come"]
 Slug:         "pacific-islands-here-i-come"
 notoc:        true
+ogimage:      "/img/posts/2012/06/Viti-Levu.jpeg"
 ---
 
 {{% figure src="/img/posts/2012/06/Viti-Levu-300x225.jpeg" title="Viti Levu" class="float-right" link="/img/posts/2012/06/Viti-Levu.jpeg" %}}

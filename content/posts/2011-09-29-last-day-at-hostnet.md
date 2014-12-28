@@ -6,6 +6,7 @@ Date:         2011-09-29T20:38:08+00:00
 Countries:    ["The Netherlands"]
 aliases:      ["/2011/09/29/last-day-at-hostnet"]
 Slug:         "last-day-working-at-hostnet-tomorrow"
+ogimage:      "/img/posts/2011/09/fiets_test_1.jpg"
 ---
 
 {{% figure src="/img/posts/2011/09/fiets_test_1.jpg" title="Hostnet bike" class="float-right" link="/img/posts/2011/09/fiets_test_1.jpg" %}}

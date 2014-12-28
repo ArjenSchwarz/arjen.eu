@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/12/06/milford-sound"]
 Slug:         "milford-sound"
 gallery_ids:  [5682784367048882849]
+ogimage:      "/img/posts/2011/12/Milford-Sound-15.jpg"
 ---
 _02-12 until 05-12_
 

@@ -6,6 +6,7 @@ Date:         2011-10-28T00:10:53+00:00
 Countries:    ["Singapore"]
 aliases:      ["/2011/10/28/a-singapore-layover"]
 Slug:         "a-singapore-layover"
+ogimage:      "/img/posts/2011/10/singaporeriver-full.jpg"
 ---
 The first stop in my actual travels wasn't so much a destination in itself, but part of the journey. With fourteen hours between my arrival in Singapore and the leaving of my connecting flight I decided to take this opportunity to revisit the city I'd last seen 3 years ago, when it was the last stop of my failed attempt at traveling.
 

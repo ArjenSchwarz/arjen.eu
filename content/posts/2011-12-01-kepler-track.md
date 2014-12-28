@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/12/01/doing-the-kepler-track"]
 Slug:         "doing-the-kepler-track"
 gallery_ids:  [5680226945959296881]
+ogimage:      "/img/posts/2011/12/DSC02462.jpg"
 ---
 
 _25-11 until 28-11_

@@ -6,8 +6,10 @@ Date:         2011-10-19T20:43:19+00:00
 Countries:    ["Germany"]
 aliases:      ["/2011/10/19/weekend-with-friends"]
 Slug:         "weekend-with-friends"
-Traveldate:    14 Oct 2011 - 16 Oct 2011
+Traveldate:    
+ogimage:       "/img/posts/2011/10/groupphotoinside.jpg"
 ---
+_14 Oct 2011 until 16 Oct 2011_
 
 As I'm writing this first part I've reached the fifth hour of a train ride to Koblenz, Germany. Not where I expected this weekend to take place, but so far it's interesting. So, how did I end up in this train ride?
 Months ago, after I'd announced my travel plans, three of my best friends; Jan, Merijn, and Steven asked to keep the weekend of October 14 till 16 free so we could do something fun. Naturally I agreed.

@@ -7,8 +7,8 @@ Countries:    ["New Zealand"]
 aliases:      ["/2012/06/11/fact-of-the-day-glaciers-are-cold"]
 Slug:         "fact-of-the-day-glaciers-are-cold"
 gallery_ids:  [5752646105590238353,5752643156975181361,5752642415016974993]
+ogimage:      "/img/posts/2012/06/OnFranzJosef.jpg"
 ---
-
 _19-01-2012 until 21-01-2012_
 
 So, let's talk about glaciers. On the South Island the two most famous and accessible glaciers are the Fox and Franz Josef glaciers. As I already had my car and they are located about 20 km from each other it was easy to visit both before I made up my mind about which one I was actually going to visit. Yes, unfortunately this was an I as Kelsey was not with me for this part of my trip.

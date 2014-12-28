@@ -6,6 +6,7 @@ Date:         2012-02-21T05:14:33+00:00
 Countries:    ["New Zealand"]
 aliases:      ["/2012/02/21/gravity-and-water-are-your-friends"]
 Slug:         "gravity-and-water-are-your-friends"
+ogimage:      "/img/posts/2012/02/Skydive-Wanaka-064.jpg"
 ---
 Well, as promised, the first post detailing some of the things I've done in the last couple of months.
 

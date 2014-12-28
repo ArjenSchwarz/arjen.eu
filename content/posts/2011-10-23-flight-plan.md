@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/10/23/flight-plan"]
 Slug:         "flight-plan"
 notoc:        true
+ogimage:      "/img/posts/2011/10/2701608954_fc134577a5_o.jpg"
 ---
 
 {{% figure src="/img/posts/2011/10/2701608954_fc134577a5_o-300x194.jpg" title="1962 Flight plan" class="float-left" link="/img/posts/2011/10/2701608954_fc134577a5_o.jpg" %}}

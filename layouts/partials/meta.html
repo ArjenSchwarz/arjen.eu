@@ -4,6 +4,10 @@
 <!-- Enable responsiveness on mobile devices-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+{{ if .Params.author }}
+<meta name="description" content="{{ .Summary }}">
+{{ else }}
 <meta name="description" content="{{ .Description }}">
+{{ end }}
 <meta name="keywords" content="{{ range .Keywords }}{{ . }},{{ end }}">
 <meta name="author" content="{{ .Params.author }}">

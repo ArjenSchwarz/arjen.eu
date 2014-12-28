@@ -6,6 +6,7 @@ Date:         2011-11-03T23:59:05+00:00
 Countries:    ["New Zealand"]
 aliases:      ["/2011/11/04/christchurch-the-beginning"]
 Slug:         "christchurch-the-beginning"
+ogimage:      "/img/posts/2011/11/Christchurch-4368.jpg"
 ---
 
 Well, it's been a week since I actually arrived here in Kiwi-land so I probably should post something about it.

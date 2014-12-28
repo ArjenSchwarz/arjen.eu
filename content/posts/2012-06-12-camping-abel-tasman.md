@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2012/06/12/camping-in-abel-tasman"]
 Slug:         "camping-in-abel-tasman"
 gallery_ids:  [5752649176775768897,5752647710311148977]
+ogimage:      "/img/posts/2012/06/ViewOfBay.jpg"
 ---
 As explained in my post about [the glaciers][1], I met a couple of people there who were willing to join me in doing the Abel Tasman coastal track. So, after we had finished doing what we wanted to do at the glaciers, Jeroen, Laura, and I got into my car and drove North.
 

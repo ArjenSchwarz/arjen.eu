@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2012/06/18/top-of-the-world"]
 Slug:         "top-of-the-world"
 gallery_ids:  [5755241848087952065]
+ogimage:      "/img/posts/2012/06/MountCook.jpg"
 ---
 After Kaikoura I went to pick up Kelsey again. She had spent her time at a farm in the southern part of the island, doing some work there. I stayed with her there during her last two days, pretty much watching other people do work and realizing I really didn't want to do any work on a farm. It's not even the work that bothered me, but you had to get up so early…
 

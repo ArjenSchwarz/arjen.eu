@@ -6,6 +6,7 @@ Date:         2011-12-24T07:53:59+00:00
 Countries:    ["New Zealand"]
 aliases:      ["/2011/12/24/merry-christmas"]
 Slug:         "merry-christmas"
+ogimage:      "/img/posts/2011/12/DSC03186.jpg"
 ---
 {{% figure src="/img/posts/2011/12/DSC03186-768x1024.jpg" title="Merry Hawaiian Christmas" class="centered" link="/img/posts/2011/12/DSC03186.jpg" %}}
 

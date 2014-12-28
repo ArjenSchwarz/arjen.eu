@@ -6,6 +6,7 @@ Date:         2011-09-12T20:49:01+00:00
 Countries:    ["New Zealand"]
 aliases:      ["/2011/09/12/42-days-and-counting"]
 Slug:         "42-days-and-counting"
+ogimage:      "/img/posts/2011/09/Hitchhikers_Guide.jpg"
 ---
 Well, the time for leaving is starting to get closer and closer. With only about 42 days left until my flight leaves from Amsterdam so that I might be introduced to what is supposed to be a country nearly as beautiful as the Netherlands. Okay, admittedly New Zealand has some nice features that aren't here, but on the other side it doesn't have Amsterdam.
 

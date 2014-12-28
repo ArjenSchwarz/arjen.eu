@@ -6,6 +6,7 @@ Date:         2011-10-27T23:42:53+00:00
 Countries:    ["The Netherlands"]
 aliases:      ["/2011/10/28/saying-goodbye"]
 Slug:         "saying-goodbye"
+ogimage:      "/img/posts/2011/10/Ethiopian-dinner-07.jpg"
 ---
 
 The past weeks most of my time was actually spent on saying goodbye. There were some other preparations as well of course, but most of that had been done already or could be done in between. Although I wasn't able to say goodbye to everybody I wanted to, as I didn't manage to make the time to give a goodbye party. Also, I'm not recapping every goodbye here as that would make this post far too long.

@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/12/01/doubtful-sound"]
 Slug:         "doubtful-sound"
 gallery_ids:  [5680222452940108401]
+ogimage:      "/img/posts/2011/12/DSC02331.jpg"
 ---
 Doubtful Sound is a fjord in Fiordland, New Zealand, named Doubtful by captain Cook who doubted he could sail in it. Of course, all of that and more can be read on [Wikipedia](http://en.wikipedia.org/wiki/Doubtful_Sound) so I'm not going to repeat it here.  I'll just say what I did while there.
 

@@ -6,6 +6,7 @@ Date:         2013-07-31T22:38:57+00:00
 Countries:    ["Australia"]
 aliases:      ["/2013/08/01/a-year-of-aussies"]
 Slug:         "a-year-of-aussies"
+ogimage:      "/img/posts/2013/08/OperaHouse.jpg"
 ---
 
 Today it's been a year since I arrived in Australia. In fact, yesterday marked the day that my visa expired and would have had to leave the country. If I was still using that same visa that is. Which I'm not.

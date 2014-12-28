@@ -7,6 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2012/02/03/100-days-on-the-south-island/"]
 Slug:         "100-days-on-the-south-island"
 gallery_ids:  [5704845058131937217]
+ogimage:      "/img/posts/2012/02/southislandpictures.png"
 ---
 Wow, it's been a while since I updated this. A lot has happened since my last real post (not counting the merry christmas one, or actually even including that one) and I won't go into detail with all of that as I'll write some separate posts for all of that.
 
