@@ -9,7 +9,7 @@ Slug:         "a-singapore-layover"
 ---
 The first stop in my actual travels wasn't so much a destination in itself, but part of the journey. With fourteen hours between my arrival in Singapore and the leaving of my connecting flight I decided to take this opportunity to revisit the city I'd last seen 3 years ago, when it was the last stop of my failed attempt at traveling.
 
-{{% figure src="/img/posts/2011/10/singaporeriver.jpg" title="Hawaiian shirt photo Singapore" class="centered" %}}
+{{% figure src="/img/posts/2011/10/singaporeriver.jpg" title="Hawaiian shirt photo Singapore" class="centered" link="/img/posts/2011/10/singaporeriver-full.jpg" %}}
 
 Before I tell a bit about my day in Singapore, a short lesson. When you decide to visit a place in between connecting flights make sure you dress for that place. Singapore was for too hot to walk around in jeans, not to mention all the trouble I had in trying to stuff my sweater and coat in the backpack I was carrying around. Lesson learned though.
 
@@ -19,6 +19,6 @@ Singapore is a strange city. On the one hand it's very beautiful and has little 
 
 It was early when I got to the city itself, and here I'm going to play the "I was tired" card. I didn't actually do much in the city. I mainly walked around the river, did some relaxing/reading there, visited Chinatown, and had a massage. I didn't take many photos either, because I was tired but also because I already had some from the last time. Of course, I couldn't remember the whole ship on top of skyscrapers thing, so that I did take pictures off.
 
-{{% figure src="/img/posts/2011/10/boatonskyscrapers.jpg" title="A floating ship" class="centered" %}}
+{{% figure src="/img/posts/2011/10/boatonskyscrapers.jpg" title="A floating ship" class="centered" link="/img/posts/2011/10/boatonskyscrapers-full.jpg" %}}
 
 At around 3 I was getting really tired, but luckily found salvation in the form of a Starbucks. For some strange reason it didn't seem to have the usual free wifi though. Oh well, I could live without it and at least the caffeine kept me mostly awake until it was time to leave for the airport again.

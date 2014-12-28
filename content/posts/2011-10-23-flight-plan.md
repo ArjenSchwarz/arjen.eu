@@ -9,7 +9,7 @@ Slug:         "flight-plan"
 notoc:        true
 ---
 
-{{% figure src="/img/posts/2011/10/2701608954_fc134577a5_o-300x194.jpg" title="1962 Flight plan" class="float-left" %}}
+{{% figure src="/img/posts/2011/10/2701608954_fc134577a5_o-300x194.jpg" title="1962 Flight plan" class="float-left" link="/img/posts/2011/10/2701608954_fc134577a5_o.jpg" %}}
 
 
 With less than 48 hours before I'm leaving on my trip, I've had requests for my flight plan. Therefore, it seems useful to actually post that flight plan online.

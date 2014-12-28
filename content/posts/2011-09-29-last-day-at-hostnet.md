@@ -8,7 +8,7 @@ aliases:      ["/2011/09/29/last-day-at-hostnet"]
 Slug:         "last-day-working-at-hostnet-tomorrow"
 ---
 
-{{% figure src="/img/posts/2011/09/fiets_test_1.jpg" title="Hostnet bike" class="float-right" %}}
+{{% figure src="/img/posts/2011/09/fiets_test_1.jpg" title="Hostnet bike" class="float-right" link="/img/posts/2011/09/fiets_test_1.jpg" %}}
 
 Tomorrow is the last day I will be working at [Hostnet][1], the company where I've spent so much of my time for the past 6 years. It's been a lot of fun to work there and I've met a lot of good friends during the years. Friends I'll miss during my travels, but luckily it's a lot easier to stay in touch these days over vast distances than it used to be.
 

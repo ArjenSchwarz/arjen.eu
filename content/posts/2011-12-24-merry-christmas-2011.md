@@ -7,7 +7,7 @@ Countries:    ["New Zealand"]
 aliases:      ["/2011/12/24/merry-christmas"]
 Slug:         "merry-christmas"
 ---
-{{% figure src="/img/posts/2011/12/DSC03186-768x1024.jpg" title="Merry Hawaiian Christmas" class="centered" %}}
+{{% figure src="/img/posts/2011/12/DSC03186-768x1024.jpg" title="Merry Hawaiian Christmas" class="centered" link="/img/posts/2011/12/DSC03186.jpg" %}}
 
 So, finally an update and it's only something in which I wish you a merry Christmas. Well, unfortunately you can't have everything. A lot of stuff has happened in the past weeks, including bungy jumping, skydiving, rafting, jetboats, canyoning, even renting a car (don't worry, New Zealand survived that), and even earthquakes (luckily no casualties).
 

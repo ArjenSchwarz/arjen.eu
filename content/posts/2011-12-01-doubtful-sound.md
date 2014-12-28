@@ -12,7 +12,7 @@ Doubtful Sound is a fjord in Fiordland, New Zealand, named Doubtful by captain C
 
 In order to get some luxury for a change, or at least luxury compared to staying in hostels, I went on an overnight cruise. This meant that in the morning I was picked up at my hostel by a bus taking me to Lake Manapouri. We were then transferred across Lake Manapouri on a boat going all the way to the power station there. Apparently, I didn't know this before, Lake Te Anau, Lake Manapouri and Doubtful Sound are all connected to work as a hydro power plant, but one that is  ecologically friendly (read: the lakes weren't raised but have to stay within their natural limits).
 
-{{% figure src="/img/posts/2011/12/DSC02116-225x300.jpg" title="View along the way to Doubtful Sonud" class="float-right" %}}
+{{% figure src="/img/posts/2011/12/DSC02116-225x300.jpg" title="View along the way to Doubtful Sonud" class="float-right" link="/img/posts/2011/12/DSC02116.jpg" %}}
 
 Anyway, from there it was yet another bus ride, along some pretty awesome views and some really steep declines where the bus went really slow in order not to have anything happen.
 
@@ -20,7 +20,7 @@ But in the end, we arrived at the wharf where we were met by the ship that would
 
 After doing this for a couple of hours, we ended up in one of the arms of the fjord where the water activities were to take place. There was the choice to go kayaking, or be carried along in a motorboat. Anyway, the kayaking was fun, even though I didn't have any real experience with it so I didn't go very fast. Of course, I wasn't the slowest person either but at times it was a bit frustrating to see so many people passing me by. Anyway, it was fun, and gave a good opportunity to get close to everything.
 
-{{% figure src="/img/posts/2011/12/DSC02160-300x225.jpg" title="Mountains rising from the sea" class="float-left" %}}
+{{% figure src="/img/posts/2011/12/DSC02160-300x225.jpg" title="Mountains rising from the sea" class="float-left" link="/img/posts/2011/12/DSC02160.jpg" %}}
 
 After the kayaking, there was an option to go swimming. Well, basically it was diving off the ship into the cold water. Or not very warm water actually. Despite the fact that the top couple of meters of the fjord are actually fresh water, straight from the mountains that get over 7 meters of rain a year, it was warmer than the water around Stewart Island had been.
 
@@ -30,7 +30,7 @@ After all this entertainment though we went in the direction of the sea, where w
 
 There isn't all that much else to tell about that first day though. We had a very nice dinner (buffet), and after that the nature guide, who had already given a lot of information all day, gave a presentation about the nature there. In the meantime the ship had moved to yet another arm of the fjord where we moored for the night.
 
-{{% figure src="/img/posts/2011/12/DSC02331-300x225.jpg" title="More mountains and waterfalls" class="centered" %}}
+{{% figure src="/img/posts/2011/12/DSC02331-300x225.jpg" title="More mountains and waterfalls" class="centered" link="/img/posts/2011/12/DSC02331.jpg" %}}
 
 The next day was really wet though. It had started raining in the evening, and at one point I heard that there had been about 120 mm of rain in the past 24 hours, which meant that all the waterfalls were going to be even more impressive on the way back. After an early breakfast (7 am) we were underway again back to the start of Doubtful Sound. We did have a short extra stop though in one of the arms where we did a so-called "Sound of Silence" thing. This was basically that no sounds were made (even the ship's engines were turned off) and we could all enjoy the sound of the waterfalls around us there.
 

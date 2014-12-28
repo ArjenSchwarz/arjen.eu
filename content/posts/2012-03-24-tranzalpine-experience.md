@@ -10,7 +10,7 @@ gallery_ids:  [5723320423890621873]
 ---
 In the beginning of January Kelsey and I ended up in Greymouth, a small city on the west coast of the South Island. Actually, we came here on purpose as we wanted to go Christchurch as that was the place where I wanted to look for (and ended up buying) a car. So, why go to the other side of the country for that?
 
-{{% figure src="/img/posts/2012/03/iPhoto-300x278.png" title="TranzAlpine Express route" class="float-left" %}}
+{{% figure src="/img/posts/2012/03/iPhoto-300x278.png" title="TranzAlpine Express route" class="float-left" link="/img/posts/2012/03/iPhoto.png" %}}
 
 The answer is pretty simple actually. While New Zealand appears to have mostly given up on railroads, there are a couple of lines left, and the most famous and beautiful of these is the TranzAlpine express which is a over 4 hour journey from Greymouth to Christchurch that goes through the Southern Alps.
 

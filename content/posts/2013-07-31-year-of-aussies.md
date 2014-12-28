@@ -14,7 +14,7 @@ Yes, I have a so-called 457 or *Temporary Business Entry (Class UC) Work (Skille
 
 So, why have I decided to stay here in Melbourne? First of all, I have to admit there is a limit to how long I can do the backpacking thing without getting bored and tired of living out of a suitcase. Maybe I'm getting old, or just got fed up with that lifestyle. Either way, I wanted to have a place to call home again.
 
-{{% figure src="/img/posts/2013/08/OperaHouse.jpg" title="Sydney Opera House" class="fullwidth" %}}
+{{% figure src="/img/posts/2013/08/OperaHouse.jpg" title="Sydney Opera House" class="fullwidth" link="/img/posts/2013/08/OperaHouse.jpg" %}}
 
 That doesn't explain why I want to stay here in Melbourne, Australia instead of coming back to The Netherlands. Mostly it's because I feel like it. Melbourne is a great city to live in, and in many ways actually reminds me of Amsterdam. Not completely of course, for example there aren't any canals around here and Melbourne has 4 times as many people living in it.
 

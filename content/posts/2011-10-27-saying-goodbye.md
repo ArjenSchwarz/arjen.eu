@@ -12,7 +12,7 @@ The past weeks most of my time was actually spent on saying goodbye. There were 
 
 I'm not going to bother you with all the actual farewells, but most of these goodbye events had something to do with food. So, in order to make this post a bit different from the standard goodbye/farewell speeches, I'll focus on the food aspects.
 
-{{% figure src="/img/posts/2011/10/IMG_0300-300x225.jpg" title="Saying goodbye from Hostnet" class="float-right" %}}
+{{% figure src="/img/posts/2011/10/IMG_0300-300x225.jpg" title="Saying goodbye from Hostnet" class="float-right" link="/img/posts/2011/10/IMG_0300.jpg" %}}
 
 In a previous post I mentioned that my last day at Hostnet was coming up. Predictably, this day actually happened. But it went a bit different than planned, due to the suddenly good weather. The shining sun meant that Harold came up with the idea not to have the first part of the party in the cantina before moving on to Dulac, but instead to go on his boat and thereby give me a last tour on the Canals of the city I'll be missing.
 
@@ -21,19 +21,19 @@ Before actually stepping on the boat, I also got a few presents. From my colleag
 Jan and Arjan, who were also present as friends and former colleagues, gave me the SAS survival guide, so that if things would go really wrong I'd still manage to come home.   
 As for the food part during this goodbye, that took place in Dulac, where some starters and tapas were ordered to make sure our stomachs weren't completely empty. All in all, a great goodbye party.
 
-{{% figure src="/img/posts/2011/10/bbqde.jpg" title="Barbecue in Germany" class="float-left" %}}
+{{% figure src="/img/posts/2011/10/bbqde.jpg" title="Barbecue in Germany" class="float-left" link="/img/posts/2011/10/bbqde.jpg" %}}
 
 While there were some moments of saying goodbye between that and the weekend in Germany, that is the first one I'll mention here again. Only because it was such a nice weekend though, and as this has already been described in a [previous post][2] I'll just let the picture speak for itself.
 
-{{% figure src="/img/posts/2011/10/limbodinner-300x225.jpg" title="Dinner with family from Limburg" class="float-right" %}}
+{{% figure src="/img/posts/2011/10/limbodinner-300x225.jpg" title="Dinner with family from Limburg" class="float-right" link="/img/posts/2011/10/limbodinner.jpg" %}}
 
 Immediately after this weekend I went to Limburg, to say goodbye to my grandmother, aunt, uncle and cousins. With this they also surprised me though, as they had arranged to have dinner together with all of us, including also my mother who'd joined me for my visit. This took place at a Chinese restaurant, and after eating most of us went on to my aunt and uncle's place. It was a lot of fun with everybody being their normal selves, for their definition of normal at least…
 
-{{% figure src="/img/posts/2011/10/Lobster-dinner-11-300x225.jpg" title="Lobster dinner" class="float-left" %}}
+{{% figure src="/img/posts/2011/10/Lobster-dinner-11-300x225.jpg" title="Lobster dinner" class="float-left" link="/img/posts/2011/10/Lobster-dinner-11.jpg" %}}
 
 The next dinner was immediately after I returned from the visit in Limburg and took place at my home. Last year I got a number of bottles of wine from my friends, and in exchange they demanded a dinner. When that still hadn't happened this year, they also gave me a cookbook and demanded that it would be a lobster dinner. So, this happened. It was almost the same group of friends who were there for the weekend, with the exception that Niki couldn't make it and Ryan came as well. Naturally, the most important part of a dinner with lobster is that the lobster is fresh. So, these were living lobsters when I got them from the fish store. While it's said that they should be thrown in boiling water while still alive, this isn't the most humane way to prepare them, so we killed them before hand. And everybody had to kill their own lobster. All of these pictures can be found on [Google+][1].
 
-{{% figure src="/img/posts/2011/10/Ethiopian-dinner-07-300x225.jpg" title="Ethiopian dinner" class="float-right" %}}
+{{% figure src="/img/posts/2011/10/Ethiopian-dinner-07-300x225.jpg" title="Ethiopian dinner" class="float-right" link="/img/posts/2011/10/Ethiopian-dinner-07.jpg" %}}
 
 Then on the Sunday before my leaving I had a last dinner with my mother, sister, and her boyfriend (Koen) at an Ethiopian restaurant. This was after we'd emptied my now former apartment of all the stuff that belongs to me. To make this even better, my sister and Koen had a gift for me as well, a beautiful bracelet with an inscription that says "Goede reis, je zusje". Loosely translated, "Have a good trip, your little sister".
 
@@ -45,8 +45,8 @@ This leads to the final goodbye, one where actually no food was present on the p
 
 Heroic actions happened that morning for everybody to be there, especially for Steven who managed to go from sleeping to being at Amsterdam Centraal Station in 25 minutes.
 
-{{% figure src="/img/posts/2011/10/schipholleaving1.jpg" title="Friends and mother who were there for my goodbye" class="float-left" %}}
-{{% figure src="/img/posts/2011/10/schipholleaving2.jpg" title="Stefan was there as well" class="float-right" %}}
+{{% figure src="/img/posts/2011/10/schipholleaving1.jpg" title="Friends and mother who were there for my goodbye" class="float-left" link="/img/posts/2011/10/schipholleaving1.jpg" %}}
+{{% figure src="/img/posts/2011/10/schipholleaving2.jpg" title="Stefan was there as well" class="float-right" link="/img/posts/2011/10/schipholleaving2.jpg" %}}
 
 <div style="clear:both"></div>
 

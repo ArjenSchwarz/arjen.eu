@@ -38,15 +38,12 @@
   <script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
 
-  {{ if .Params.lightbox }}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseUrl }}/css/lightbox.css">
+  <script src="/vendor/jquery-2.1.3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="/css/lightbox.css">
   <script src="/js/lightbox.min.js"></script>
-  {{ end }}
 
   {{if isset .Params "gallery_ids" }}
     <link href="/vendor/nanogallery/css/nanogallery.min.css" rel="stylesheet" type="text/css">
-    <script src="/vendor/jquery-2.1.3.min.js"></script>
     <script src="/vendor/nanogallery/jquery.nanogallery.min.js"></script>
   {{ end }}
 

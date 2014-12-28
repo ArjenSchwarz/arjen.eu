@@ -9,7 +9,7 @@ Slug:         "pacific-islands-here-i-come"
 notoc:        true
 ---
 
-{{% figure src="/img/posts/2012/06/Viti-Levu-300x225.jpeg" title="Viti Levu" class="float-right" %}}
+{{% figure src="/img/posts/2012/06/Viti-Levu-300x225.jpeg" title="Viti Levu" class="float-right" link="/img/posts/2012/06/Viti-Levu.jpeg" %}}
 
 This Saturday, June 30, I'll take a plane to the Cook Islands, where I'll spent almost two weeks enjoying the sun, after which I'll take a flight out to Fiji.
 
