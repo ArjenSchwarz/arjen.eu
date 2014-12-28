@@ -7,6 +7,7 @@ Slug:         "about"
 Aliases:      ['/travels']
 Menu:         ['main']
 nopaging:     true
+notoc:        true
 ---
 
 This site contains a log of my travels. So, who am I?
@@ -20,3 +21,9 @@ This blog therefore serves both as a way for me to remember where I've been and 
 As you can see by the dates at one point I pretty much stopped updating, but I'm planning on catching up on that.
 
 If you're more interested in what I do professionally, you can find that on my other site [ig.nore.me](http://ig.nore.me)
+
+## Acknowledgements
+
+The site is generated using [Hugo](http://gohugo.com) and the theme is based on the [Red Lounge](https://github.com/tmaiaroto/hugo-redlounge) Hugo theme with a few tweaks to satisfy my own needs.
+
+The country flag images are taken from [www.freeflagicons.com](www.freeflagicons.com).
