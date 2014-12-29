@@ -513,6 +513,21 @@ div.gallery {
     text-decoration: none;
 }
 
+.nav ul.rss li .nav-item-separator:after {
+    font-family: 'FontAwesome';
+    font-size: 100%;
+    margin-left: .618em;
+    font-weight: normal;
+    line-height: 1em;
+    width: 1em;
+    /*text-align: right;*/
+    /*display: inline-block;*/
+    content: "\f09e";
+    color: #E54028;
+    /*float: right;*/
+    /*line-height: 2;*/
+}
+
 @media (max-width: 1024px) {
 	h1.brand-title {
 		font-size: 2.5rem;
