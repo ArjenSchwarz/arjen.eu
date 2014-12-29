@@ -8,3 +8,11 @@ title = "Arjen's travels"
 [permalinks]
     posts = "/:year/:month/:slug"
     pages = "/:slug/"
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/ArjenSchwarz"
+    identifier = "twitter"
+[[menu.social]]
+    pre = "<i class='fa fa-instagram'></i>"
+    url = "http://www.instagram.com/ArjenSchwarz"
+    identifier = "instagram"
