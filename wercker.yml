@@ -10,7 +10,7 @@ build:
           ./hugo
 deploy:
   steps:
-    - lukevivier/gh-pages@0.2.1
-      token: $GIT_TOKEN
-      domain: www.arjen.eu
-      basedir: public
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: www.arjen.eu
+        basedir: public
