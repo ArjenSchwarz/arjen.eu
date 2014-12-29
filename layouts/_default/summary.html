@@ -3,7 +3,7 @@
           {{ if .Params.countries }}
           <div class="post-avatar-wrapper">
             {{ range .Params.countries }}
-              <a href="/countries/{{ . | urlize }}"><img class="post-avatar" alt="{{ . }}" title="{{ . }}" src="/img/flags/{{ . | urlize }}.png"></a>
+              <a href="/countries/{{ . | urlize | lower }}"><img class="post-avatar" alt="{{ . }}" title="{{ . }}" src="/img/flags/{{ . | urlize | lower }}.png"></a>
             {{ end }}
           </div>
           {{ end }}
