@@ -1,4 +1,4 @@
-baseurl = "http://www.arjen.eu"
+baseurl = "https://www.arjen.eu"
 languageCode = "en-us"
 title = "Arjen's travels"
 [params]
