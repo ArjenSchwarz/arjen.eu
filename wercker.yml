@@ -1,0 +1,16 @@
+box: wercker/default
+build:
+  steps:
+    - script:
+        name: build hugo
+        code: |
+          wget https://github.com/spf13/hugo/releases/download/v0.12/hugo_0.12_linux_amd64.tar.gz
+          tar xzf hugo_0.12_linux_amd64.tar.gz
+          cp hugo_0.12_linux_amd64/hugo_0.12_linux_amd64 hugo
+          ./hugo
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1
+      token: $GIT_TOKEN
+      domain: www.arjen.eu
+      basedir: public
