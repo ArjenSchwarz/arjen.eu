@@ -16,4 +16,5 @@ Actually, no. It’s the result of a request from my friends. During the weekend
 Some days I did fail however, so I mention these days of shame on this page as well.
 
 * 27-10-2011, upon my arrival in Christchurch I went to the hotel and slept there until the next day. I should’ve taken the picture before then.
+* 29-04-2013, I have no idea why this one is missing
 
