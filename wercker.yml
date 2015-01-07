@@ -1,7 +1,8 @@
 box: wercker/default
 build:
   steps:
-    - arjen/hugo-build
+    - arjen/hugo-build:
+        version: 0.12
 deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
