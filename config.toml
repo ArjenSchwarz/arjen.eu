@@ -16,3 +16,7 @@ title = "Arjen's travels"
     pre = "<i class='fa fa-instagram'></i>"
     url = "http://www.instagram.com/ArjenSchwarz"
     identifier = "instagram"
+[[menu.social]]
+    pre = "<i class='fa fa-envelope-o'></i>"
+    url = "mailto:arjen@arjen.eu"
+    identifier = "email"

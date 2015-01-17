@@ -22,8 +22,12 @@ As you can see by the dates at one point I pretty much stopped updating, but I'm
 
 If you're more interested in what I do professionally, you can find that on my other site [ig.nore.me](http://ig.nore.me)
 
+## Contact
+
+You can contact me on [Twitter](http://www.twitter.com/ArjenSchwarz) or by [email](mailto:arjen@arjen.eu).
+
 ## Acknowledgements
 
-The site is generated using [Hugo](http://gohugo.com) and the theme is based on the [Red Lounge](https://github.com/tmaiaroto/hugo-redlounge) Hugo theme with a few tweaks to satisfy my own needs.
+The site is generated using [Hugo](http://gohugo.io) and the theme is based on the [Red Lounge](https://github.com/tmaiaroto/hugo-redlounge) Hugo theme with a few tweaks to satisfy my own needs.
 
-The country flag images are taken from [www.freeflagicons.com](www.freeflagicons.com).
+The country flag images are taken from [www.freeflagicons.com](http://www.freeflagicons.com).
