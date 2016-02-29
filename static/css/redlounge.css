@@ -139,6 +139,9 @@ h2.brand-tagline {
     margin-right: 0.1rem;
     line-height: 1.5rem;
 }
+.current-menu-item>a {
+    color: #E54028;
+}
 .nav-item a:hover,
 .nav-item a:focus {
     text-decoration: none;

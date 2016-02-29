@@ -10,13 +10,41 @@ title = "Arjen's travels"
     pages = "/:slug/"
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
-    url = "http://www.twitter.com/ArjenSchwarz"
+    url = "https://www.twitter.com/ArjenSchwarz"
     identifier = "twitter"
 [[menu.social]]
     pre = "<i class='fa fa-instagram'></i>"
-    url = "http://www.instagram.com/ArjenSchwarz"
+    url = "https://www.instagram.com/ArjenSchwarz"
     identifier = "instagram"
 [[menu.social]]
     pre = "<i class='fa fa-envelope-o'></i>"
     url = "mailto:arjen@arjen.eu"
     identifier = "email"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/australia"
+    Name = "Australia"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/cook-islands"
+    Name = "Cook Islands"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/fiji"
+    Name = "Fiji"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/germany"
+    Name = "Germany"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/new-zealand"
+    Name = "New Zealand"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/singapore"
+    Name = "Singapore"
+[[menu.countries]]
+    pre = ""
+    Url = "/countries/the-netherlands"
+    Name = "The Netherlands"

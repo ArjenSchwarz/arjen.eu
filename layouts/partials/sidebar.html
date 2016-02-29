@@ -7,17 +7,18 @@
 
     <nav class="nav">
       <ul class="nav-list">
-        <li class="nav-item"><span class="nav-item-separator">//</span><a href="{{ .Site.BaseUrl }}">Home</a></li>
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="{{ .Site.BaseURL }}">Home</a></li>
+        {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="{{ .Url }}">{{ .Name }}</a></li>
+          <li class="nav-item{{if $currentNode.IsMenuCurrent "main" . }} current-menu-item{{end}}"><span class="nav-item-separator">//</span><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       </ul>
     </nav>
 
     <nav class="nav">
       <ul class="nav-list">
-        {{ range $name, $taxonomy := .Site.Taxonomies.countries }}
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="/countries/{{ $name | urlize }}">{{ replace $name "-" " " }}</a></li>
+        {{ range .Site.Menus.countries }}
+          <li class="nav-item{{if $currentNode.IsMenuCurrent "countries" . }} current-menu-item{{end}}"><span class="nav-item-separator">//</span><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       </ul>
     </nav>
@@ -37,8 +38,8 @@
     {{ if .Site.Menus.social }}
     <div class="social-buttons">
       {{ range .Site.Menus.social }}
-        {{ if .Url }}
-        <a href="{{ .Url }}">{{ .Pre }}</a>
+        {{ if .URL }}
+        <a href="{{ .URL }}">{{ .Pre }}</a>
         {{ end }}
       {{ end }}
 
