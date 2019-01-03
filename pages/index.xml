@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2011 08:06:07 +0000</lastBuildDate>
-    <atom:link href="https://www.arjen.eu/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.arjen.eu/pages/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
@@ -15,40 +17,8 @@
       <pubDate>Tue, 28 Jun 2011 08:06:07 +0000</pubDate>
       
       <guid>https://www.arjen.eu/about/</guid>
-      <description>
-
-&lt;p&gt;This site contains a log of my travels. So, who am I?&lt;/p&gt;
-
-&lt;figure class=&#34;float-right&#34;&gt;
-    
-        &lt;img src=&#34;https://www.arjen.eu/img/profilepicsmall.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Yes, this is me&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;p&gt;My name is Arjen, and I&amp;rsquo;m a Dutch guy currently living in Melbourne, Australia. I ended up here after travelling around for a bit and decided to stick around. Before that I traveled through New Zealand for almost a year, as well a couple of other places before coming to Australia. And of course, from Australia I can easily visit more countries so I&amp;rsquo;m doing that as well.&lt;/p&gt;
-
-&lt;p&gt;This blog therefore serves both as a way for me to remember where I&amp;rsquo;ve been and look back on that, as well as a place where friends and family can easily see what I&amp;rsquo;ve been up to.&lt;/p&gt;
-
-&lt;p&gt;As you can see by the dates at one point I pretty much stopped updating, but I&amp;rsquo;m planning on catching up on that.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re more interested in what I do professionally, you can find that on my other site &lt;a href=&#34;http://ig.nore.me&#34;&gt;ig.nore.me&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact&lt;/h2&gt;
-
-&lt;p&gt;You can contact me on &lt;a href=&#34;http://www.twitter.com/ArjenSchwarz&#34;&gt;Twitter&lt;/a&gt; or by &lt;a href=&#34;mailto:arjen@arjen.eu&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;acknowledgements:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Acknowledgements&lt;/h2&gt;
-
-&lt;p&gt;The site is generated using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and the theme is based on the &lt;a href=&#34;https://github.com/tmaiaroto/hugo-redlounge&#34;&gt;Red Lounge&lt;/a&gt; Hugo theme with a few tweaks to satisfy my own needs.&lt;/p&gt;
-
-&lt;p&gt;The country flag images are taken from &lt;a href=&#34;http://www.freeflagicons.com&#34;&gt;www.freeflagicons.com&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>This site contains a log of my travels. So, who am I?
+ Yes, this is me   My name is Arjen, and I&amp;rsquo;m a Dutch guy currently living in Melbourne, Australia. I ended up here after travelling around for a bit and decided to stick around. Before that I traveled through New Zealand for almost a year, as well a couple of other places before coming to Australia.</description>
     </item>
     
     <item>
@@ -57,17 +27,8 @@
       <pubDate>Tue, 28 Jun 2011 08:06:07 +0000</pubDate>
       
       <guid>https://www.arjen.eu/hawaiian-shirts/</guid>
-      <description>&lt;p&gt;Ok, you might ask. Why are you wearing a Hawaiian shirt in so many photos? Is it some kind of fashion statement?&lt;/p&gt;
-
-&lt;p&gt;Actually, no. It’s the result of a request from my friends. During the weekend in Germany I was told that I should take a picture wearing this Hawaiian shirt every single day. Of course, I figured a request (read: demand) like that isn’t too hard so I agreed to do this. This page contains these photos, but they can also be viewed on either my Facebook profile or on Picasa/Google+.&lt;/p&gt;
-
-&lt;p&gt;Some days I did fail however, so I mention these days of shame on this page as well.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;27-10-2011, upon my arrival in Christchurch I went to the hotel and slept there until the next day. I should’ve taken the picture before then.&lt;/li&gt;
-&lt;li&gt;29-04-2013, I have no idea why this one is missing&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Ok, you might ask. Why are you wearing a Hawaiian shirt in so many photos? Is it some kind of fashion statement?
+Actually, no. It’s the result of a request from my friends. During the weekend in Germany I was told that I should take a picture wearing this Hawaiian shirt every single day. Of course, I figured a request (read: demand) like that isn’t too hard so I agreed to do this.</description>
     </item>
     
   </channel>
