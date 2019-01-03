@@ -6,6 +6,7 @@ workflow "Build and Deploy Hugo Site" {
 action "Build" {
   uses = "ArjenSchwarz/actions/hugo/build@master"
   secrets = ["GITHUB_TOKEN"]
+  args = ["--minify"]
 }
 
 action "GitHub Pages" {
