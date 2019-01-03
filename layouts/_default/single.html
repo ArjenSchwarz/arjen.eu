@@ -84,17 +84,17 @@
             {{ if not .Params.nopaging }}
                 <div class="paging">
                     <span class="paging-label">More Reading</span>
-                    {{ if .Prev }}
+                    {{ if .NextPage }}
                     <div class="paging-newer">
                         <span class="dark-red">Newer</span><span class="decorative-marker">//</span>
-                        <a class="paging-link" href="{{ .Prev.RelPermalink }}">{{ .Prev.Title }}</a>
+                        <a class="paging-link" href="{{ .NextPage.RelPermalink }}">{{ .NextPage.Title }}</a>
                     </div>
                     {{ end }}
 
-                    {{ if .Next }}
+                    {{ if .PrevPage }}
                     <div class="paging-older">
                         <span class="dark-red">Older</span><span class="decorative-marker">//</span>
-                        <a class="paging-link" href="{{ .Next.RelPermalink }}">{{ .Next.Title  }}</a>
+                        <a class="paging-link" href="{{ .PrevPage.RelPermalink }}">{{ .PrevPage.Title  }}</a>
                     </div>
                     {{ end }}
                 </div>
