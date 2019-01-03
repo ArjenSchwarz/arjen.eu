@@ -15,5 +15,6 @@ action "GitHub Pages" {
   secrets = ["GITHUB_TOKEN"]
   env = {
     ONLY_IN_BRANCH = "master"
+    DOMAIN = "arjen.eu"
   }
 }
