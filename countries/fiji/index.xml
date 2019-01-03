@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fiji on Arjen&#39;s travels</title>
-    <link>https://www.arjen.eu/countries/fiji/</link>
-    <description>Recent content in Fiji on Arjen&#39;s travels</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2012 08:06:07 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.arjen.eu/countries/fiji/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Pacific islands, here I come!</title>
-      <link>https://www.arjen.eu/2012/06/pacific-islands-here-i-come/</link>
-      <pubDate>Thu, 28 Jun 2012 08:06:07 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/2012/06/pacific-islands-here-i-come/</guid>
-      <description>Viti Levu   This Saturday, June 30, I&amp;rsquo;ll take a plane to the Cook Islands, where I&amp;rsquo;ll spent almost two weeks enjoying the sun, after which I&amp;rsquo;ll take a flight out to Fiji.
-Everything I&amp;rsquo;ve read about these lovely places indicates that it will be very expensive to make phone calls or use the internet on the islands there, so I have no intention of doing either.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fiji on Arjen&#39;s travels</title><link>https://www.arjen.eu/countries/fiji/</link><description>Recent content in Fiji on Arjen&#39;s travels</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2012 08:06:07 +0000</lastBuildDate><atom:link href="https://www.arjen.eu/countries/fiji/index.xml" rel="self" type="application/rss+xml"/><item><title>Pacific islands, here I come!</title><link>https://www.arjen.eu/2012/06/pacific-islands-here-i-come/</link><pubDate>Thu, 28 Jun 2012 08:06:07 +0000</pubDate><guid>https://www.arjen.eu/2012/06/pacific-islands-here-i-come/</guid><description>Viti Levu This Saturday, June 30, I&amp;rsquo;ll take a plane to the Cook Islands, where I&amp;rsquo;ll spent almost two weeks enjoying the sun, after which I&amp;rsquo;ll take a flight out to Fiji.
+Everything I&amp;rsquo;ve read about these lovely places indicates that it will be very expensive to make phone calls or use the internet on the islands there, so I have no intention of doing either.</description></item></channel></rss>

@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Australia on Arjen&#39;s travels</title>
-    <link>https://www.arjen.eu/countries/australia/</link>
-    <description>Recent content in Australia on Arjen&#39;s travels</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jul 2013 22:38:57 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.arjen.eu/countries/australia/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A year of Aussies</title>
-      <link>https://www.arjen.eu/2013/07/a-year-of-aussies/</link>
-      <pubDate>Wed, 31 Jul 2013 22:38:57 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/2013/07/a-year-of-aussies/</guid>
-      <description>Today it&amp;rsquo;s been a year since I arrived in Australia. In fact, yesterday marked the day that my visa expired and would have had to leave the country. If I was still using that same visa that is. Which I&amp;rsquo;m not.
-Yes, I have a so-called 457 or Temporary Business Entry (Class UC) Work (Skilled) (Subclass 457) visa now for Australia. Regardless of the strange bureaucratic behaviour of using a crazy name and then only focusing on the number, this means that I (and Kelsey as she was the secondary applicant on it) can stay here for 4 years as long as there is a company sponsoring me.</description>
-    </item>
-    
-    <item>
-      <title>Back on the road in Tasmania</title>
-      <link>https://www.arjen.eu/2013/04/back-on-the-road-in-tasmania/</link>
-      <pubDate>Tue, 02 Apr 2013 12:22:58 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/2013/04/back-on-the-road-in-tasmania/</guid>
-      <description>It&amp;rsquo;s been a long time since I&amp;rsquo;ve updated this blog, and I&amp;rsquo;ve decided to jump forward to the present time. I&amp;rsquo;ll post about all the earlier happenings as well, but for now I suspect it&amp;rsquo;s more interesting to know what I&amp;rsquo;m up to at the moment. So, without further ado, here&amp;rsquo;s a short post about Tasmania.
-Tasmania   Map of Tasmania   For the past 7 months we (Kelsey and myself) have mostly spent our time in Melbourne.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Australia on Arjen&#39;s travels</title><link>https://www.arjen.eu/countries/australia/</link><description>Recent content in Australia on Arjen&#39;s travels</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2013 22:38:57 +0000</lastBuildDate><atom:link href="https://www.arjen.eu/countries/australia/index.xml" rel="self" type="application/rss+xml"/><item><title>A year of Aussies</title><link>https://www.arjen.eu/2013/07/a-year-of-aussies/</link><pubDate>Wed, 31 Jul 2013 22:38:57 +0000</pubDate><guid>https://www.arjen.eu/2013/07/a-year-of-aussies/</guid><description>Today it&amp;rsquo;s been a year since I arrived in Australia. In fact, yesterday marked the day that my visa expired and would have had to leave the country. If I was still using that same visa that is. Which I&amp;rsquo;m not.
+Yes, I have a so-called 457 or Temporary Business Entry (Class UC) Work (Skilled) (Subclass 457) visa now for Australia. Regardless of the strange bureaucratic behaviour of using a crazy name and then only focusing on the number, this means that I (and Kelsey as she was the secondary applicant on it) can stay here for 4 years as long as there is a company sponsoring me.</description></item><item><title>Back on the road in Tasmania</title><link>https://www.arjen.eu/2013/04/back-on-the-road-in-tasmania/</link><pubDate>Tue, 02 Apr 2013 12:22:58 +0000</pubDate><guid>https://www.arjen.eu/2013/04/back-on-the-road-in-tasmania/</guid><description>It&amp;rsquo;s been a long time since I&amp;rsquo;ve updated this blog, and I&amp;rsquo;ve decided to jump forward to the present time. I&amp;rsquo;ll post about all the earlier happenings as well, but for now I suspect it&amp;rsquo;s more interesting to know what I&amp;rsquo;m up to at the moment. So, without further ado, here&amp;rsquo;s a short post about Tasmania.
+Tasmania Map of Tasmania For the past 7 months we (Kelsey and myself) have mostly spent our time in Melbourne.</description></item></channel></rss>

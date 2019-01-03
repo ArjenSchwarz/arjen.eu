@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Singapore on Arjen&#39;s travels</title>
-    <link>https://www.arjen.eu/countries/singapore/</link>
-    <description>Recent content in Singapore on Arjen&#39;s travels</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2011 00:10:53 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.arjen.eu/countries/singapore/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A Singapore layover</title>
-      <link>https://www.arjen.eu/2011/10/a-singapore-layover/</link>
-      <pubDate>Fri, 28 Oct 2011 00:10:53 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/2011/10/a-singapore-layover/</guid>
-      <description>The first stop in my actual travels wasn&amp;rsquo;t so much a destination in itself, but part of the journey. With fourteen hours between my arrival in Singapore and the leaving of my connecting flight I decided to take this opportunity to revisit the city I&amp;rsquo;d last seen 3 years ago, when it was the last stop of my failed attempt at traveling.
-  Hawaiian shirt photo Singapore   Before I tell a bit about my day in Singapore, a short lesson.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Singapore on Arjen&#39;s travels</title><link>https://www.arjen.eu/countries/singapore/</link><description>Recent content in Singapore on Arjen&#39;s travels</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 28 Oct 2011 00:10:53 +0000</lastBuildDate><atom:link href="https://www.arjen.eu/countries/singapore/index.xml" rel="self" type="application/rss+xml"/><item><title>A Singapore layover</title><link>https://www.arjen.eu/2011/10/a-singapore-layover/</link><pubDate>Fri, 28 Oct 2011 00:10:53 +0000</pubDate><guid>https://www.arjen.eu/2011/10/a-singapore-layover/</guid><description>The first stop in my actual travels wasn&amp;rsquo;t so much a destination in itself, but part of the journey. With fourteen hours between my arrival in Singapore and the leaving of my connecting flight I decided to take this opportunity to revisit the city I&amp;rsquo;d last seen 3 years ago, when it was the last stop of my failed attempt at traveling.
+Hawaiian shirt photo Singapore Before I tell a bit about my day in Singapore, a short lesson.</description></item></channel></rss>

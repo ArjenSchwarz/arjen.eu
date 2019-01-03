@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Arjen&#39;s travels</title>
-    <link>https://www.arjen.eu/pages/</link>
-    <description>Recent content in Pages on Arjen&#39;s travels</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2011 08:06:07 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.arjen.eu/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://www.arjen.eu/about/</link>
-      <pubDate>Tue, 28 Jun 2011 08:06:07 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/about/</guid>
-      <description>This site contains a log of my travels. So, who am I?
- Yes, this is me   My name is Arjen, and I&amp;rsquo;m a Dutch guy currently living in Melbourne, Australia. I ended up here after travelling around for a bit and decided to stick around. Before that I traveled through New Zealand for almost a year, as well a couple of other places before coming to Australia.</description>
-    </item>
-    
-    <item>
-      <title>Hawaiian Shirts</title>
-      <link>https://www.arjen.eu/hawaiian-shirts/</link>
-      <pubDate>Tue, 28 Jun 2011 08:06:07 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/hawaiian-shirts/</guid>
-      <description>Ok, you might ask. Why are you wearing a Hawaiian shirt in so many photos? Is it some kind of fashion statement?
-Actually, no. It’s the result of a request from my friends. During the weekend in Germany I was told that I should take a picture wearing this Hawaiian shirt every single day. Of course, I figured a request (read: demand) like that isn’t too hard so I agreed to do this.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Arjen&#39;s travels</title><link>https://www.arjen.eu/pages/</link><description>Recent content in Pages on Arjen&#39;s travels</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2011 08:06:07 +0000</lastBuildDate><atom:link href="https://www.arjen.eu/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://www.arjen.eu/about/</link><pubDate>Tue, 28 Jun 2011 08:06:07 +0000</pubDate><guid>https://www.arjen.eu/about/</guid><description>This site contains a log of my travels. So, who am I?
+Yes, this is me My name is Arjen, and I&amp;rsquo;m a Dutch guy currently living in Melbourne, Australia. I ended up here after travelling around for a bit and decided to stick around. Before that I traveled through New Zealand for almost a year, as well a couple of other places before coming to Australia.</description></item><item><title>Hawaiian Shirts</title><link>https://www.arjen.eu/hawaiian-shirts/</link><pubDate>Tue, 28 Jun 2011 08:06:07 +0000</pubDate><guid>https://www.arjen.eu/hawaiian-shirts/</guid><description>Ok, you might ask. Why are you wearing a Hawaiian shirt in so many photos? Is it some kind of fashion statement?
+Actually, no. It’s the result of a request from my friends. During the weekend in Germany I was told that I should take a picture wearing this Hawaiian shirt every single day. Of course, I figured a request (read: demand) like that isn’t too hard so I agreed to do this.</description></item></channel></rss>

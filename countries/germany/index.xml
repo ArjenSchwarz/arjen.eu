@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Germany on Arjen&#39;s travels</title>
-    <link>https://www.arjen.eu/countries/germany/</link>
-    <description>Recent content in Germany on Arjen&#39;s travels</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2011 20:43:19 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.arjen.eu/countries/germany/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Weekend with Friends</title>
-      <link>https://www.arjen.eu/2011/10/weekend-with-friends/</link>
-      <pubDate>Wed, 19 Oct 2011 20:43:19 +0000</pubDate>
-      
-      <guid>https://www.arjen.eu/2011/10/weekend-with-friends/</guid>
-      <description>14 Oct 2011 until 16 Oct 2011
-As I&amp;rsquo;m writing this first part I&amp;rsquo;ve reached the fifth hour of a train ride to Koblenz, Germany. Not where I expected this weekend to take place, but so far it&amp;rsquo;s interesting. So, how did I end up in this train ride? Months ago, after I&amp;rsquo;d announced my travel plans, three of my best friends; Jan, Merijn, and Steven asked to keep the weekend of October 14 till 16 free so we could do something fun.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Germany on Arjen&#39;s travels</title><link>https://www.arjen.eu/countries/germany/</link><description>Recent content in Germany on Arjen&#39;s travels</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2011 20:43:19 +0000</lastBuildDate><atom:link href="https://www.arjen.eu/countries/germany/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekend with Friends</title><link>https://www.arjen.eu/2011/10/weekend-with-friends/</link><pubDate>Wed, 19 Oct 2011 20:43:19 +0000</pubDate><guid>https://www.arjen.eu/2011/10/weekend-with-friends/</guid><description>14 Oct 2011 until 16 Oct 2011
+As I&amp;rsquo;m writing this first part I&amp;rsquo;ve reached the fifth hour of a train ride to Koblenz, Germany. Not where I expected this weekend to take place, but so far it&amp;rsquo;s interesting. So, how did I end up in this train ride? Months ago, after I&amp;rsquo;d announced my travel plans, three of my best friends; Jan, Merijn, and Steven asked to keep the weekend of October 14 till 16 free so we could do something fun.</description></item></channel></rss>
