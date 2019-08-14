@@ -12,10 +12,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         args: --minify
-    - name: ProdFilter
-      uses: actions/bin/filter@master
-      with:
-        args: branch master
     - name: GitHub Pages
       uses: ArjenSchwarz/actions/github/pages@master
       env:
