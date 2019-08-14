@@ -1,0 +1,24 @@
+on: push
+name: Build and Deploy Hugo Site
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      uses: ArjenSchwarz/actions/hugo/build@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        args: --minify
+    - name: ProdFilter
+      uses: actions/bin/filter@707718ee26483624de00bd146e073d915139a3d8
+      with:
+        args: branch master
+    - name: GitHub Pages
+      uses: ArjenSchwarz/actions/github/pages@master
+      env:
+        DOMAIN: www.arjen.eu
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ONLY_IN_BRANCH: master
