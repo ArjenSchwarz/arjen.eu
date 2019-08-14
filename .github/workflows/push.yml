@@ -13,7 +13,7 @@ jobs:
       with:
         args: --minify
     - name: ProdFilter
-      uses: actions/bin/filter@707718ee26483624de00bd146e073d915139a3d8
+      uses: actions/bin/filter@master
       with:
         args: branch master
     - name: GitHub Pages
