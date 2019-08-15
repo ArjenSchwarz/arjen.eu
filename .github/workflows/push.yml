@@ -17,6 +17,7 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@master
     - name: GitHub Pages
       # if: github.refs == refs/heads/master
       uses: ArjenSchwarz/actions/github/pages@master
