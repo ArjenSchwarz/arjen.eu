@@ -17,8 +17,12 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
+    - name: Dump GitHub context
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: echo "$GITHUB_CONTEXT"
     - name: GitHub Pages
-      if: github.refs == refs/heads/master
+      # if: github.refs == refs/heads/master
       uses: ArjenSchwarz/actions/github/pages@master
       env:
         DOMAIN: www.arjen.eu
