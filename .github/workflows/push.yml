@@ -12,9 +12,15 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         args: --minify
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
     - name: GitHub Pages
+      # if: github.refs == refs/heads/master
       uses: ArjenSchwarz/actions/github/pages@master
       env:
         DOMAIN: www.arjen.eu
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         ONLY_IN_BRANCH: master
