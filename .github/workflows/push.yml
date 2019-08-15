@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: GitHub Pages
-      if: github.refs == "refs/heads/master"
+      if: github.refs == refs/heads/master
       uses: ArjenSchwarz/actions/github/pages@master
       env:
         DOMAIN: www.arjen.eu
